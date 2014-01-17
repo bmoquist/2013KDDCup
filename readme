@@ -1,0 +1,2 @@
+Data Mining Class Project (Fall 2013)
+Implemented a program to solve the Track II of the 2013 KDD Cup.  Kaggle re-ran the competition for our class in Fall 2013.  We were allowed to read the winning papers written by contestants but not allowed to view their source code.  My implementation draws heavily from the paper written by the winning team at National Taiwan University.
